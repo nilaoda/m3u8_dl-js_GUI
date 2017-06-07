@@ -3,7 +3,8 @@
 -->
 (`zh_CN`)
 
-# `m3u8_dl-js_GUI` 预处理程序 接口规范 `version 0.1.0`
+# `m3u8_dl-js_GUI` 预处理程序 接口规范
+`version 0.1.0`
 
 
 ## 1. 概述
