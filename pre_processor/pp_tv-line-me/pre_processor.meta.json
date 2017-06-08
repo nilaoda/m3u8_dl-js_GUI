@@ -1,0 +1,16 @@
+{
+  "pp_version": "0.1.0",
+
+  "id": "pp_tv-line-me",
+  "name": "tv.line.me 的 m3u8 预处理程序",
+  "version": "0.1.0 test20170608 1858",
+
+  "type": "python3",
+  "main": "pp_tv-line-me.py",
+
+  "license": "GNU GPL v3+",
+  "author": "sceext <sceext@foxmail.com>",
+  "home": "https://github.com/nilaoda/m3u8_dl-js_GUI",
+
+  "_support_site": "tv.line.me"
+}
