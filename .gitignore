@@ -1,0 +1,4 @@
+
+# python 3
+*.py[cd]
+__pycache__/
