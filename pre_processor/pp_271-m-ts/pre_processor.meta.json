@@ -1,0 +1,17 @@
+{
+  "pp_version": "0.1.0",
+
+  "id": "pp_271-m-ts",
+  "name": "WWQ 271 移动端 m3u8",
+  "version": "0.1.0 test20170610 0210",
+
+  "type": "python3",
+  "main": "pp_271_m_ts.py",
+
+  "license": "GNU GPL v3+",
+  "author": "sceext <sceext@foxmail.com>, wwqgtxx <wwqgtxx@gmail.com>",
+  "home": "https://github.com/nilaoda/m3u8_dl-js_GUI",
+
+  "_support_site": "271",
+  "_upstream": "https://github.com/wwqgtxx/wwqLyParse"
+}

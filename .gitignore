@@ -1,4 +1,11 @@
 
+# pre_processor tmp files
+*.html
+*.m3u8
+*.error
+*.format
+*.list
+
 # python 3
 *.py[cd]
 __pycache__/
