@@ -1,0 +1,22 @@
+{
+  "pp_version": "0.1.0",
+
+  "id": "pp_wwq-any_page-url_list",
+  "name": "WWQ 任意页面 URL 列表",
+  "version": "0.1.0 test20170610 1616",
+
+  "type": "python3",
+  "main": "pp_wwq_any_page.py",
+
+  "license": "GNU GPL v3+",
+  "author": "sceext <sceext@foxmail.com>, wwqgtxx <wwqgtxx@gmail.com>",
+  "home": "https://github.com/nilaoda/m3u8_dl-js_GUI",
+
+  "_support_site": "*",
+  "_upstream": "https://github.com/wwqgtxx/wwqLyParse",
+  "_deps": {
+    "pyquery": "https://pypi.python.org/pypi/pyquery",
+    "cssselect": "https://pypi.python.org/pypi/cssselect",
+    "lxml": "https://pypi.python.org/pypi/lxml"
+  }
+}
