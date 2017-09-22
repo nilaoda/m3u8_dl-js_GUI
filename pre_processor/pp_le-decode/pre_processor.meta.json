@@ -1,0 +1,17 @@
+{
+  "pp_version": "0.1.0",
+
+  "id": "pp_le-decode",
+  "name": "乐视 m3u8 解码",
+  "version": "0.1.0 test20170611 1629",
+
+  "type": "python3",
+  "main": "pp_le_decode.py",
+
+  "license": "GNU GPL v3+",
+  "author": "sceext <sceext@foxmail.com>",
+  "home": "https://github.com/nilaoda/m3u8_dl-js_GUI",
+
+  "_support_site": "www.le.com",
+  "_upstream": "https://github.com/zhangn1985/ykdl"
+}
