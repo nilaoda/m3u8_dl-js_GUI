@@ -28,7 +28,7 @@ A simple GUI for m3u8_dl-js...
 具体操作如下：
 * [下载HFS。](http://www.rejetto.com/hfs/?f=dl)
 * 下载url为m3u8文件并进行适当修改  
-`（修改操作例如为m3u8文件手动添加Bseurl等. PS:事实上如果你点击过软件中的按钮，程序已经将m3u8文件下载到%temp%目录）`
+`（修改操作例如为m3u8文件手动添加Baseurl、加载外部key等. PS:事实上如果你点击过软件中的按钮，程序已经将m3u8文件下载到%temp%目录）`
 * 在HFS打开时，默认的IP地址即为你的本地IP地址，你可以随意指定一个端口。
 * 此时将m3u8文件拖入左边的文件列表，然后右键刚拖入的m3u8，点击复制URL(Copy URL Address)。
 * 返回m3u8_dl-js_GUI，粘贴url，再次尝试IDM下载。优酷4K、搜狐的m3u8已测试通过。  
