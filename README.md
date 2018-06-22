@@ -19,7 +19,7 @@ A simple GUI for m3u8_dl-js...
 * 芒果的m3u8
 #### 优酷H264的补充说明
 由于某些原因，优酷H264只建议下载**分段**而不是m3u8：   
-可以把优酷网页端appinfo接口中的各个分段url改写为一个“m3u8”然后使用下载器下载并在设置中启用**慢速合并** 
+可以把优酷网页端appinfo接口中的各个分段url改写为一个“m3u8”然后使用下载器下载并在设置中启用**慢速合并**，或者直接处理m3u8将之变成**分段**形式的m3u8以减少不确定性([辅助程序](https://github.com/nilaoda/m3u8_dl-js_GUI/releases/download/v0.3.0/YK-m3u82clip.exe)) 
 #### 哪些不能下载
 * 不能嗅探https开头的m3u8
 * 无法直接下载某些禁止二次请求的m3u8
