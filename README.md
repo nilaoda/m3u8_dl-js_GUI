@@ -8,11 +8,14 @@ A simple GUI for m3u8_dl-js...
 <img alt="" src="https://i.loli.net/2018/11/06/5be15568c7802.png" style="display: inline-block;" />
 </div> <br>  
 
-#### 方法2
+#### 方法2(推荐)
 * 本地多个m3u8文件，保存在新建文件夹中，将整个文件夹拖入程序的地址栏，点击下载。程序会自动逐个识别文件名并下载。<br>
 <div style="text-align: center;">
 <img alt="" src="https://i.loli.net/2018/11/06/5be155e63fe88.png" style="display: inline-block;" />
 </div><br>
+
+#### 方法3
+* 将m3u8链接下载为本地m3u8文件后再使用方法2下载。 ([辅助程序](https://github.com/nilaoda/m3u8_dl-js_GUI/releases/download/v0.4.0/m3u8.exe))
 
 ## IDM下载m3u8的几个小贴士
 #### 为什么点击后没反应
@@ -51,7 +54,7 @@ A simple GUI for m3u8_dl-js...
 `(如果你有公网地址，在获取外部IP后，可以把URL分享给其他人，让他们使用下载器或IDM下载或使用移动设备直接观看。必要时在路由器端做一下端口映射哦)`
 
 手动批量下载：
-* 先将url批量下载为m3u8文件 ([辅助程序](https://github.com/nilaoda/m3u8_dl-js_GUI/releases/download/v0.3.0/m3u8.exe))
+* 先将url批量下载为m3u8文件 ([辅助程序](https://github.com/nilaoda/m3u8_dl-js_GUI/releases/download/v0.4.0/m3u8.exe))
 * 将m3u8文件放在一个文件夹中并将此文件夹拖入HFS，选择虚拟目录模式，并复制该**文件夹**URL。
 * 在Chrome等浏览器中打开复制好的URL，进入HFS的WEB管理界面。
 * **顺次**点击(下载)所列出的m3u8文件，如无意外，IDM将自动嗅探并顺序编号，此时点击悬浮框，再点击下载全部即可以队列方式将TS文件添加至IDM。
