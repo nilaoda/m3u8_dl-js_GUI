@@ -1,8 +1,20 @@
 # m3u8_dl-js_GUI
 A simple GUI for m3u8_dl-js...
+  
+## 如何进行批量下载
+#### 方法1
+* 将m3u8链接保存为txt文件，每行一个链接。然后将txt文件拖入程序的地址栏，点击下载。程序会自动逐个识别文件名并下载。<br>
+<div style="text-align: center;">
+<img alt="" src="https://i.loli.net/2018/11/06/5be15568c7802.png" style="display: inline-block;" />
+</div> <br>  
 
+#### 方法2
+* 本地多个m3u8文件，保存在新建文件夹中，将整个文件夹拖入程序的地址栏，点击下载。程序会自动逐个识别文件名并下载。<br>
+<div style="text-align: center;">
+<img alt="" src="https://i.loli.net/2018/11/06/5be155e63fe88.png" style="display: inline-block;" />
+</div><br>
 
-## 关于程序新增的IDM下载m3u8的几个小贴士
+## IDM下载m3u8的几个小贴士
 #### 为什么点击后没反应
 * 将鼠标停留在按钮上数秒，按照提示操作  
 `（若依旧无法下载，请往下看）`
