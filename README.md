@@ -18,7 +18,7 @@ A simple GUI for m3u8_dl-js...
 </div><br>
 
 #### 方法3
-* 将m3u8链接下载为本地m3u8文件后再使用方法2下载。 ([辅助程序](https://github.com/nilaoda/m3u8_dl-js_GUI/releases/download/v0.4.0/m3u8.exe))
+* 将m3u8链接下载为本地m3u8文件后再使用方法2下载。 ([辅助程序](https://github.com/nilaoda/m3u8_dl-js_GUI/releases/download/v0.4.1/m3u8.exe))
 
 ## IDM下载m3u8的几个小贴士
 #### 为什么点击后没反应
